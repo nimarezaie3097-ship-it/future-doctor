@@ -1,6 +1,6 @@
 function scrollToSection(id){
     document
-    .getElementById(id)
+    .getElementById(id)m
     .scrollIntoView({
         behavior:"smooth"
     });
