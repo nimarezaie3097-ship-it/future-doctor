@@ -121,3 +121,16 @@ footer{
     opacity:1;
     transform:translateY(0);
 }
+.dark{
+    background:#111;
+    color:white;
+}
+
+.dark .card{
+    background:#222;
+    color:white;
+}
+
+.dark nav{
+    background:#1a1a1a;
+}
