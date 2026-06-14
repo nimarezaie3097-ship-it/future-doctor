@@ -40,7 +40,7 @@ function typeWriter(){
     }
 }
 
-typeWriter();
+window.onload = function(){
 document
 .getElementById("darkBtn")
 .addEventListener("click",()=>{
