@@ -1,6 +1,6 @@
 function scrollToSection(id){
     document
-    .getElementById(id)m
+    .getElementById(id)
     .scrollIntoView({
         behavior:"smooth"
     });
@@ -39,6 +39,7 @@ function typeWriter(){
         setTimeout(typeWriter,100);
     }
 }
+console.log("Javascript Loaded");
 
 window.onload = function(){
 document
