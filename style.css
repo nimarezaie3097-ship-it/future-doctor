@@ -126,11 +126,19 @@ footer{
     color:white;
 }
 
+.dark nav{
+    background:#1a1a1a;
+}
+
 .dark .card{
     background:#222;
     color:white;
 }
 
-.dark nav{
-    background:#1a1a1a;
+.dark a{
+    color:white;
+}
+
+.dark footer{
+    background:#000;
 }
